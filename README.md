@@ -1,5 +1,7 @@
 Tutorial de Python.
 
+Por: Manuela Botero Buitrago.
+
 Este proyecto es un tutorial de mi aprendizaje introductorio de Python diseñado para principiantes. A lo largo del tutorial, aprenderás los conceptos básicos de Python de manera interactiva utilizando Jupyter Notebook, lo que te permitirá experimentar directamente con el código mientras sigues los ejemplos y ejercicios.
 
 Contenido
